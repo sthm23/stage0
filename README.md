@@ -12,45 +12,45 @@ The preparatory stage will help those who have little or no knowledge of program
 - [Module "Profession "JS/Front-end developer"](modules/js-fe-developer/)
 - [Module "Introduction to the Git version control system"](modules/git/)
 - [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
-- Project ["CV"](../tasks/cv/cv.md). 
-    - ["CV#1. Markdown & Git"](../tasks/cv/git-markdown.md)
+- Project ["CV"](./tasks/cv/cv.md). 
+    - ["CV#1. Markdown & Git"](./tasks/cv/git-markdown.md)
 
 ### Week  #2
 - [Module "Basics of HTML"](modules/html-basics/)
 - [CSS Basics Module](modules/css-basics/)
-- Project ["CV"](../tasks/cv/cv.md). 
-    - ["CV#2. HTML, CSS & Git Basics"](../tasks/cv/html-css-git.md)
-    - ["CV#3. CV. Cross-Check"](../tasks/cv/cv-stage0.md)
+- Project ["CV"](./tasks/cv/cv.md). 
+    - ["CV#2. HTML, CSS & Git Basics"](./tasks/cv/html-css-git.md)
+    - ["CV#3. CV. Cross-Check"](./tasks/cv/cv-stage0.md)
 
 ### Week  #3
 - [Module "Positioning in CSS. Flex."](modules/css-positioning/)
 - [Figma module](modules/figma)
-- Project ["Library"](../tasks/library/library.md) 
-    - ["Library#1. Fixed layout"](../tasks/library/library-part1.md)
-- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["CV#3. CV. Cross-Check"](../tasks/cv/cv-stage0.md)
+- Project ["Library"](./tasks/library/library.md) 
+    - ["Library#1. Fixed layout"](./tasks/library/library-part1.md)
+- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["CV#3. CV. Cross-Check"](./tasks/cv/cv-stage0.md)
 
 ### Week  #4
 - [Module "Introduction to JavaScript"](modules/js-basics/)
 
 ### Week  #5
-- [Module "Introduction to Codewars. Tasks Part #1"](../tasks/codewars/preschool-2022-codewars1.md)
+- [Module "Introduction to Codewars. Tasks Part #1"](./tasks/codewars/preschool-2022-codewars1.md)
 
 ### Week  #6
 - [Module "Reinforcing the basics of JavaScript. Functions"](modules/js-functions/)
-- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#1"](../tasks/library/library-part1.md)
-- Project ["Library"](../tasks/library/library.md)
-    - ["Library#2. Responsive layout"](../tasks/library/library-part2.md)
+- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#1"](./tasks/library/library-part1.md)
+- Project ["Library"](./tasks/library/library.md)
+    - ["Library#2. Responsive layout"](./tasks/library/library-part2.md)
 
 ### Week  #7
 - [Module "Objects and arrays in JavaScript"](modules/objects-and-arrays/)
-- [Module "Codewars Part#2"](../tasks/codewars/preschool-2022-codewars2.md)
+- [Module "Codewars Part#2"](./tasks/codewars/preschool-2022-codewars2.md)
 
 ### Week  #8
 - [DOM API module](modules/dom-api/)
 - ["DOM Events" module](modules/dom-events/)
-- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#2"](../tasks/library/library-part2.md)
-- Project ["Library"](../tasks/library/library.md)
-    - ["Library#3. Adding functionality"](../tasks/library/library-part3.md)
+- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#2"](./tasks/library/library-part2.md)
+- Project ["Library"](./tasks/library/library.md)
+    - ["Library#3. Adding functionality"](./tasks/library/library-part3.md)
 
 ### Week  #9
 - [Module "Codewars Part#3"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars/preschool-2022-codewars3.md)
@@ -63,7 +63,7 @@ The preparatory stage will help those who have little or no knowledge of program
 - [Module "Algorithms and Data Structures. Part 2"](modules/data-structures-part-2/)
 
 ### Week  #12
-- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#3"](../tasks/library/library-part3.md)
+- [Cross-check](https://docs.rs.school/#/cross-check-flow) project ["Library#3"](./tasks/library/library-part3.md)
 
 ### Week  #13
 - Turning tails (tests, tasks, Codewars)
