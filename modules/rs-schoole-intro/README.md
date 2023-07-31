@@ -50,3 +50,8 @@ The answers to most questions are given by the course documentation, adjusted fo
     - RS App
     - create an issue
     - write gratitude
+
+## Materials
+   - [What is the github](https://www.youtube.com/watch?v=BUE2LaSzijM&ab_channel=CodeInstitute)
+   - [About git hub](https://docs.github.com/en/get-started/quickstart/hello-world)
+   - 
