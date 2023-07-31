@@ -8,7 +8,7 @@ The preparatory stage will help those who have little or no knowledge of program
 
 ## Training program
 ### Week  #1
-- [Module "Introduction to RS School"](./modules/rs-school-intro/README.md)
+- [Module "Introduction to RS School"](https://github.com/sthm23/stage0/blob/main/modules/rs-schoole-intro/README.md)
 - [Module "Profession "JS/Front-end developer"](modules/js-fe-developer/)
 - [Module "Introduction to the Git version control system"](modules/git/)
 - [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
