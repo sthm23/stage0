@@ -55,3 +55,5 @@ The answers to most questions are given by the course documentation, adjusted fo
    - [What is the github](https://www.youtube.com/watch?v=BUE2LaSzijM&ab_channel=CodeInstitute)
    - [About git hub](https://docs.github.com/en/get-started/quickstart/hello-world)
    - [usefull info about github](https://www.simplilearn.com/tutorials/git-tutorial/what-is-github)
+   - [About RS-school](https://www.youtube.com/watch?v=_9ujuerx1M0&list=PLzLiprpVuH8f6xbduCGPxsASSeZAahaKj)
+
